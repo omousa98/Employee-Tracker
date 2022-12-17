@@ -19,7 +19,7 @@
   "homepage": "https://github.com/omousa98/Employee-Tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^8.2.0",
+    "inquirer": "^8.2.5",
     "mysql2": "^2.3.3",
     "util": "^0.12.4"
   }
