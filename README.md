@@ -8,7 +8,11 @@
 
 ## Usage
 
-![Employee Tracker gif]()
+![Employee Tracker gif](./Assets/Employee%20Gif.gif)
+
+## Youtube (Click on Image to be directed to youtube)
+
+[![Group Profile Gen Walkthrough](./Assets/Employee%20Youtube.jpg)](https://www.youtube.com/watch?v=WRp5dCQN7Is)
 
 ## Credits
 List your collaborators, if any, with links to their GitHub profiles.
