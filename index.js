@@ -382,7 +382,7 @@ function removeRole() {
     })
 }
 
-// View all deparments
+// View all departments
 function viewDepartments() {
   db.findAllDepartments()
     .then(([rows]) => {
